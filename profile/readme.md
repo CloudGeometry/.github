@@ -66,4 +66,4 @@ The solutions we develop for our clients are curated from the portfolio of open 
 - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
 
 
-[^oss_management]: [Our approach to OSS management](oss_management.md)
+[^oss_management]: [Our approach to OSS management](https://github.com/CloudGeometry/.github/blob/main/profile/oss_management.md)
