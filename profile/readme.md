@@ -66,14 +66,14 @@ The solutions we develop for our clients are curated from the portfolio of open 
 - [Terragrunt](https://github.com/gruntwork-io/terragrunt) is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [Terraform provider AWS](https://github.com/hashicorp/terraform-provider-aws) Terraform AWS provider.
 - [Terraform provider Harbor](https://github.com/goharbor/terraform-provider-harbor) A Terraform provider for Harbor. 
-- [CloudMapper](https://github.com/duo-labs/cloudmapper)
+- [CloudMapper](https://github.com/duo-labs/cloudmapper) helps you analyze your Amazon Web Services (AWS) environments.
 - [EKS Cluster Upgrade](https://github.com/aws-samples/eks-cluster-upgrade) Automated Amazon EKS cluster upgrade.
 - [EKS best practices](https://github.com/aws/aws-eks-best-practices) A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization. 
 - [Kong](https://github.com/Kong/kong) The Cloud-Native API Gateway.
 - [KubeNT](https://github.com/doitintl/kube-no-trouble) Easily check your clusters for use of deprecated API.
 - [Kustomize](https://github.com/kubernetes-sigs/kustomize) Customization of kubernetes YAML configurations.
 - [Leverage](https://github.com/binbashar/leverage) CLI intended to orchestrate Leverage Reference Architecture for AWS.
-- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) CLI tool to generate terraform files from existing infrastructure (reverse Terraform).
 
 ### Platform engineering
 - [Kubefirst](https://github.com/kubefirst/kubefirst) The Kubefirst Open Source Platform . 
